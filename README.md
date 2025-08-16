@@ -1,8 +1,8 @@
 # Git을 배워봅시다.
 Git 저장소 초기화하기
 작업 영역, 스테이징 영역 그리고 커밋
-<<<<<<< HEAD
-Resotre, Discard로 수정 내용 되돌리기
-=======
+
+Restore, Discard로 수정 내용 되돌리기
+
 Push, Pull 명령어를 이용하여 로컬저장소와 리모트 저장소를 동기화 시키기
->>>>>>> orgin/main
+
